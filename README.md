@@ -1,2 +1,2 @@
 # Jsnalpha.github.io
-blog
+Jsnalpha
